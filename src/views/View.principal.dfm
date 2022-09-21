@@ -2182,7 +2182,7 @@ object ViewPrincipal: TViewPrincipal
           Align = alClient
           Caption = 'ERPDelphi'
           Font.Charset = DEFAULT_CHARSET
-          Font.Color = clWhite
+          Font.Color = clRed
           Font.Height = -24
           Font.Name = 'Segoe UI'
           Font.Style = []

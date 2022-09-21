@@ -31,7 +31,7 @@ inherited ViewBaseListas: TViewBaseListas
       Align = alClient
       Caption = 'lblTitulo'
       Font.Charset = ANSI_CHARSET
-      Font.Color = clWhite
+      Font.Color = clRed
       Font.Height = -19
       Font.Name = 'Segoe UI Semibold'
       Font.Style = [fsBold]
